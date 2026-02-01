@@ -4,7 +4,7 @@ A C++ utility using Magick++ to generate a stylized digital namecard from an emb
 
 ## Prerequisites
 - ImageMagick
-- A C++20 compile compiler
+- A C++20 compliant compiler
 
 ## Usage
 1. Build: `make`
